@@ -1,4 +1,4 @@
-remote_theme: "janessatran/laloyd"
+remote_theme: "jacobtomlinson/carte-noire"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
