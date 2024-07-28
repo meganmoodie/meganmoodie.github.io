@@ -3,4 +3,11 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-responsive_image
+  - emoji_for_jekyll
 title: Megan Moodie
+footnote: "Developed by [Toma Brasoveanu](https://norok-the-diablo.github.io/goosenator/toma)"
+back_to_top: true
+back_to_top_text: "Back to top"
+gh_edit_link: false
+permalink: pretty
