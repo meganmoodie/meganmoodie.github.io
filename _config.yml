@@ -1,0 +1,5 @@
+remote_theme: "janessatran/laloyd"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
