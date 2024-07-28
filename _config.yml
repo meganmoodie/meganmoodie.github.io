@@ -5,9 +5,11 @@ plugins:
   - jekyll-remote-theme
   - jekyll-responsive_image
   - emoji_for_jekyll
-title: Megan Moodie
-footnote: "Developed by [Toma Brasoveanu](https://norok-the-diablo.github.io/goosenator/toma)"
+title: "Megan Moodie"
+rss-description: "Megan Moodie"
+description: "Megan Moodie's Landing Page"
+author: "Megan Moodie"
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "Back To Top"
 gh_edit_link: false
 permalink: pretty
