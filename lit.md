@@ -1,6 +1,6 @@
 ---
 title: "Megan Moodie"
-description: "Literature And Journalism"
+description: "Literature & Journalism"
 layout: gohome.html
 ---
 
