@@ -1,4 +1,4 @@
-remote_theme: "lewismiddleton/cayman-dark"
+remote_theme: "Norok-The-Diablo/cayman-dark"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -9,6 +9,7 @@ title: "Megan Moodie"
 rss-description: "Megan Moodie"
 description: "About Me"
 author: "Megan Moodie"
+show_downloads: true
 back_to_top: true
 back_to_top_text: "Back To Top"
 gh_edit_link: false
