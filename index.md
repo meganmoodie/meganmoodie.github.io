@@ -19,3 +19,7 @@ She is also the subject of an on-going documentary film project about her life i
 Moodie lives in Santa Cruz with her partner, a linguist, her son, a film buff, and their two salt-and-pepper pugs.
 
 ![pugs](pugs.jpg)
+
+-----
+
+Web page created by [Toma Brasoveanu](https://meganmoodie.github.io/toma.html) using Jekyll
