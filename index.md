@@ -6,7 +6,7 @@
 
 -----
 
-Dr. Megan Moodie is an interdisciplinary writer, artist, and feminist scholar who works in a variety of mediums, from lyrical essay to film and dance to academic research. In a recent interview on Brown University's podcast "Meeting Street," she described her unique and eclectic approach: "I’m doing... a form of research-creation, where you don’t decide on a method, or a genre, or a voice prior to engagement with the material you’re trying to work through. You try to train yourself in several different methodologies or artistic practices, and then pick the tool for the job" (https://humanities.brown.edu/media/meetingst/13).
+Dr. Megan Moodie is an interdisciplinary writer, artist, and feminist scholar who works in a variety of mediums, from lyrical essay to film and dance to academic research. In a recent interview on Brown University's podcast "Meeting Street," she described her unique and eclectic approach: "I’m doing... a form of research-creation, where you don’t decide on a method, or a genre, or a voice prior to engagement with the material you’re trying to work through. You try to train yourself in several different methodologies or artistic practices, and then pick the tool for the job" ([https://humanities.brown.edu/media/meetingst/13](https://humanities.brown.edu/media/meetingst/13)).
 
 Moodie's first book, We Were Adivasis (University of Chicago Press, 2015), about gender injustice and indigenous communities in India, was described as revealing “new vistas for feminist studies”; her articles have been widely published and reprinted in flagship journals and collections.
 
