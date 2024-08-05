@@ -7,7 +7,6 @@ plugins:
   - emoji_for_jekyll
 title: "Megan Moodie"
 rss-description: "Megan Moodie"
-description: "About Me"
 author: "Megan Moodie"
 show_downloads: true
 back_to_top: true
