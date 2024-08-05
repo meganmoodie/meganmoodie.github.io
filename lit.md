@@ -1,5 +1,5 @@
 ---
-title: "Literature And Journalism"
+description: "Literature And Journalism"
 layout: default
 ---
 
