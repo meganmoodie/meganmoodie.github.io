@@ -1,6 +1,3 @@
-<script src=md-page.js></script><noscript>
-layout: page
-  
 [Go Back To Home](https://meganmoodie.github.io)
 
 -----
