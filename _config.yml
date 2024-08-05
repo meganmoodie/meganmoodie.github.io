@@ -7,7 +7,7 @@ plugins:
   - emoji_for_jekyll
 title: "Megan Moodie"
 rss-description: "Megan Moodie"
-description: "Landing Page"
+description: "About Me"
 author: "Megan Moodie"
 back_to_top: true
 back_to_top_text: "Back To Top"
