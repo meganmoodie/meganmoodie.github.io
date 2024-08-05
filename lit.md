@@ -6,7 +6,7 @@ layout: gohome
 
 # Megan Moodie Creative Non-Fiction Links
 
-### Hip Mama Magazine (2021):
+## Hip Mama Magazine (2021):
 
 <http://hipmamazine.com/megan-moodie-dear-selma-blair-please-play-me-in-the-movie/>  
 (BROKEN LINK)
