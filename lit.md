@@ -1,3 +1,8 @@
+---
+title: "Megan Moodie | Literature And Journalism"
+layout: default
+---
+
 [Go Back To Home](https://meganmoodie.github.io)
 
 -----
