@@ -43,3 +43,7 @@ INSERT LINK
 -----
 
 # Megan Moodie Curatorial Projects Links
+
+-----
+
+#### Web page created by [Toma Brasoveanu](https://meganmoodie.github.io/toma.html) using Jekyll
