@@ -1,5 +1,7 @@
+---
 title: "Megan Moodie"
 description: "About Me"
+---
 
 ![headshot](headshot.jpg)
 
