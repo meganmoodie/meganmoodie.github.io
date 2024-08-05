@@ -14,7 +14,7 @@ In literary venues, Moodie's lyrical essay “Birthright” (Chicago Quarterly R
 
 Moodie has been a professor of anthropology at the University of California, Santa Cruz since 2009, where she teaches classes in feminist theory and disability justice that bring together social science research methods and the arts.
 
-She is also the subject of an on-going documentary film project about her life in dance, “Inventory of Joy,” created with collaborator Cynthia Ling Lee (https://vimeo.com/810305619/3b500393c6).
+She is also the subject of an on-going documentary film project about her life in dance, “Inventory of Joy,” created with collaborator Cynthia Ling Lee ([https://vimeo.com/810305619/3b500393c6](https://vimeo.com/810305619/3b500393c6).
 
 Moodie lives in Santa Cruz with her partner, a linguist, her son, a film buff, and their two salt-and-pepper pugs.
 
