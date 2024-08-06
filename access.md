@@ -1,7 +1,7 @@
 ---
 title: "Megan Moodie"
 description: "Access Features"
-layout: gohome
+layout: default
 ---
 
 ## • Assisted TTS reader crawling
