@@ -4,7 +4,7 @@ description: "About Me"
 layout: default
 ---
 
-@font-face { <style = font-family: Open Dyslexic; src: url('opendyslexic.otf');> }
+@font-face { <style = font-family: Open Dyslexic; src: url('opendyslexic.otf');></style> }
 
 ![headshot](headshot.jpg)
 
