@@ -4,7 +4,7 @@ description: "Contact Me"
 layout: gohome
 ---
 
-Email: [megancmoodie@gmail.com](mailto:megancmoodie@gmail.com)
+## Email: [megancmoodie@gmail.com](mailto:megancmoodie@gmail.com)
 
 -----
 
