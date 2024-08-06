@@ -8,6 +8,7 @@ plugins:
 exclude:
   - _config.yml
   - README.md
+  - favicon.png
   - LICENSE
 title: "Megan Moodie"
 rss-description: "Megan Moodie"
