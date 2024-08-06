@@ -1,9 +1,10 @@
-<style = font-family: Open Dyslexic; src: url('opendyslexic.otf');>
 ---
 title: "Megan Moodie"
 description: "About Me"
 layout: default
 ---
+
+@font-face { <style = font-family: Open Dyslexic; src: url('opendyslexic.otf');> }
 
 ![headshot](headshot.jpg)
 
