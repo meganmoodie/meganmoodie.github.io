@@ -1,7 +1,7 @@
 ---
 title: "Megan Moodie"
 description: "Contact Me"
-layout: gohome
+layout: default
 ---
 
 ## Email: [megancmoodie@gmail.com](mailto:megancmoodie@gmail.com)
