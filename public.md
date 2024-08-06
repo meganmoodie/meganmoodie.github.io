@@ -10,10 +10,7 @@ layout: gohome
     .yt{
     aspect-ratio: 16 / 9;
     width: 100%;
-    min-width:253;
-    max-width:800;
     height: auto;
-    min-height:450;
     }
 </style>
 
