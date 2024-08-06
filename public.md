@@ -12,7 +12,8 @@ layout: gohome
     min-width:200;
     max-width:800;
     height: 100%;
-    min-height:200;
+    min-height:112;
+    max-height:450;
     }
 </style>
 
