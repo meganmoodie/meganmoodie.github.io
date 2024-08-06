@@ -4,8 +4,6 @@ description: "About Me"
 layout: default
 ---
 
-<style> @font-face { font-family: Open Dyslexic; src: url('opendyslexic.otf'); } </style>
-
 ![headshot](headshot.jpg)
 
 ### *I want to talk about something else, which is the emotional life of illness. This seems like an equally difficult but more neglected task. Rather than being unique or emblematic, my story is so brutally common that sometimes I feel like telling it all over again is like explaining to sick women that the sky is blue. We know medicine is fucked up beyond all belief. How can we live anyway?*
