@@ -1,3 +1,4 @@
+<style = font-family: Open Dyslexic; src: url('opendyslexic.otf');>
 ---
 title: "Megan Moodie"
 description: "About Me"
