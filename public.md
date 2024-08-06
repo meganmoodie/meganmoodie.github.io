@@ -9,11 +9,10 @@ layout: gohome
 <style>
     .yt{
     width: 100%;
-    min-width:200;
+    min-width:253;
     max-width:800;
     height: auto;
-    min-height:112;
-    max-height:450;
+    min-height:450;
     }
 </style>
 
