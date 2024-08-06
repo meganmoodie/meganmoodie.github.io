@@ -17,7 +17,8 @@ layout: default
 
 ## Chicago Quarterly Review (2018):
 
-"Birthright"  Named "Notable Essay of the Year" in Best American Essays (2019, edited by Robert Atwan and Rebecca Solnit)  
+"Birthright"  
+Named "Notable Essay of the Year" in Best American Essays (2019, edited by Robert Atwan and Rebecca Solnit)  
 INSERT LINK
 
 ## Film Quarterly (2018):
