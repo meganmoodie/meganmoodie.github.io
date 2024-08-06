@@ -6,6 +6,8 @@ layout: default
 
 ## Email: <a id="email-link" href="mailto:megancmoodie@gmail.com">megancmoodie@gmail.com</a>
 
+<script> @import "{{ site.theme }}"; </script>
+
 <button onclick="copyEmail()">Copy Email</button>
 
 <script>
