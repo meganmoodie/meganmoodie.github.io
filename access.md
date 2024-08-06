@@ -4,10 +4,10 @@ description: "Access Features"
 layout: gohome
 ---
 
-## • Assisted TTS Reader Crawling
-## • Big font size and readable font family
+## • Assisted TTS reader crawling
 ## • Dark theming and dark reader support
 ## • Image descriptions
+## • Large font size and readable font family
 ## • Mobile scaling
 ## • No flashing images
 ## • Sign language interpreters on all the videos
