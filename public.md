@@ -1,7 +1,7 @@
 ---
 title: "Megan Moodie"
 description: "Public Appearances"
-layout: default
+layout: nondefault
 ---
 
 ## An evening with Jen Brea and Megan Moodie, The Humanities Institute (2021):
