@@ -11,9 +11,8 @@ layout: gohome
     width: 100%;
     min-width:200;
     max-width:800;
-    height: 100%;
+    height: auto;
     min-height:112;
-    max-height:450;
     }
 </style>
 
