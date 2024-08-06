@@ -1,7 +1,7 @@
 ---
 title: "Megan Moodie"
 description: "Literature & Journalism"
-layout: gohome
+layout: default
 ---
 
 # Megan Moodie Creative Non-Fiction Links
