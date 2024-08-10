@@ -46,7 +46,7 @@ Named "Notable Essay of the Year" in Best American Essays (2019, edited by Rober
 
 # Megan Moodie Curatorial Projects Links
 
-## How We Make It: Disability Justice, Autoimmunity, Community -- a Multimedia Project
+## How We Make It: Disability Justice, Autoimmunity, Community -- a Multimedia Project:
 
 By the HWMI Collective: Rachel Lee, Megan Moodie, Alexandra Juhasz, Pato Hebert, Charles Briggs, Nikita Simpson, Cynthia Ling Lee, Tammy Ho, Marina Peterson, Sharon Daniel  
 Published in 2024 *Catalyst: Feminism, Theory, Technoscience*. 10(1): 1–7.
@@ -55,7 +55,7 @@ Published in 2024 *Catalyst: Feminism, Theory, Technoscience*. 10(1): 1–7.
 <https://catalystjournal.org/index.php/catalyst/article/view/40299/>  
 <https://catalystjournal.org/index.php/catalyst/article/view/40299/32824/>  
 
-## *Syndicate* Symposium on Dorinne Kondo's *Worldmaking: Race, Performance, and the Work of Creativity*, June 27, 2022
+## *Syndicate* Symposium on Dorinne Kondo's *Worldmaking: Race, Performance, and the Work of Creativity*, June 27, 2022:
 
 <https://syndicate.network/symposia/literature/worldmaking/>
 
