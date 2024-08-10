@@ -49,7 +49,9 @@ Named "Notable Essay of the Year" in Best American Essays (2019, edited by Rober
 ## How We Make It: Disability Justice, Autoimmunity, Community -- a Multimedia Project
 
 By the HWMI Collective: Rachel Lee, Megan Moodie, Alexandra Juhasz, Pato Hebert, Charles Briggs, Nikita Simpson, Cynthia Ling Lee, Tammy Ho, Marina Peterson, Sharon Daniel  
-Published in 2024 *Catalyst: Feminism, Theory, Technoscience*. 10(1): 1–7.  
+Published in 2024 *Catalyst: Feminism, Theory, Technoscience*. 10(1): 1–7.
+
+
 <https://catalystjournal.org/index.php/catalyst/article/view/40299/>  
 <https://catalystjournal.org/index.php/catalyst/article/view/40299/32824/>  
 
