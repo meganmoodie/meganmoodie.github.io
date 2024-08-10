@@ -13,7 +13,7 @@ Vox Jo Hsu, Megan Moodie, Abigail Dumes, Emily Lim Rogers, Chelsey Carter, Emma 
 ## 2022. Community voices: broadening participation in Science, Technology, Engineering, Mathematics, and Medicine among persons with Disabilities:
 
 Megan Moodie, Siobhan Mattison, Logan Gin, Allistair A. Abraham, Feranmi Okanlami, and Katherine Wander.  
-*Nature Communications*, 13(1), 7208.
+*Nature Communications*. 13(1). 7208.
 
 ## 2013. Bureaucratic literacy and the politics of complaint: An Untold Story of Rajasthan's Reservation Policy:
 
@@ -21,15 +21,15 @@ Megan Moodie, Siobhan Mattison, Logan Gin, Allistair A. Abraham, Feranmi Okanlam
 
 ## 2013. Microfinance and the Gender of Risk: The case of Kiva.org:
 
-*Signs: Journal of Women in Culture and Society*, 38(2). 279-302.
+*Signs: Journal of Women in Culture and Society*. 38(2). 279-302.
 
 ## 2010. Why can’t you say you are from Bangladesh?: demographic anxiety and Hindu nationalist common sense in the aftermath of the 2008 Jaipur bombings:
 
-*Identities: Global Studies in Culture and Power* Vol. 17(5), Sept/Oct. 531-559.
+*Identities: Global Studies in Culture and Power*. 17(5). September/October. 531-559.
 
 ## 2008. Enter Microcredit: A new culture of women’s empowerment in Rajasthan?:
 
-*American Ethnologist*, Vol. 35(5). 454-465
+*American Ethnologist*. 35(5). 454-465.
 
 -----
 
