@@ -1,6 +1,5 @@
 ---
 title: "Megan Moodie"
-description: "Contact Me"
 layout: default
 ---
 
