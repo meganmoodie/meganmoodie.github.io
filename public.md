@@ -1,6 +1,5 @@
 ---
 title: "Megan Moodie"
-description: "Public Appearances & Disability Advocacy"
 layout: default
 ---
 
