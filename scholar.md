@@ -3,33 +3,45 @@ title: "Megan Moodie"
 layout: default
 ---
 
+# Curriculum Vitae
+
+<https://meganmoodie.github.io/CV.pdf>
+
+-----
+
 # Articles & Commentaries
 
 ## 2024. Patients as knowledge partners in the context of complex chronic conditions:
 
 Vox Jo Hsu, Megan Moodie, Abigail Dumes, Emily Lim Rogers, Chelsey Carter, Emma Broder, Daisy Couture, Ilana Löwy, and Emily Mendenhall.  
-*Medical Humanities*.
+*Medical Humanities*.  
+<https://meganmoodie.github.io/articles/patients.pdf>
 
 ## 2022. Community voices: broadening participation in Science, Technology, Engineering, Mathematics, and Medicine among persons with Disabilities:
 
 Megan Moodie, Siobhan Mattison, Logan Gin, Allistair A. Abraham, Feranmi Okanlami, and Katherine Wander.  
-*Nature Communications*. 13(1). 7208.
+*Nature Communications*. 13(1). 7208.  
+<https://meganmoodie.github.io/articles/community.pdf>
 
 ## 2013. Bureaucratic literacy and the politics of complaint: An Untold Story of Rajasthan's Reservation Policy:
 
-*Economic and Political Weekly*. 48(45&amp;46). 71-75.
+*Economic and Political Weekly*. 48(45&amp;46). 71-75.  
+<https://meganmoodie.github.io/articles/bureaucratic.pdf>
 
 ## 2013. Microfinance and the Gender of Risk: The case of Kiva.org:
 
-*Signs: Journal of Women in Culture and Society*. 38(2). 279-302.
+*Signs: Journal of Women in Culture and Society*. 38(2). 279-302.  
+<https://meganmoodie.github.io/articles/microfinance.pdf>
 
 ## 2010. Why can’t you say you are from Bangladesh?: demographic anxiety and Hindu nationalist common sense in the aftermath of the 2008 Jaipur bombings:
 
-*Identities: Global Studies in Culture and Power*. 17(5). September/October. 531-559.
+*Identities: Global Studies in Culture and Power*. 17(5). September/October. 531-559.  
+<https://meganmoodie.github.io/articles/wcysyfb.pdf>
 
 ## 2008. Enter Microcredit: A new culture of women’s empowerment in Rajasthan?:
 
-*American Ethnologist*. 35(5). 454-465.
+*American Ethnologist*. 35(5). 454-465.  
+<https://meganmoodie.github.io/articles/microcredit.pdf>
 
 -----
 
