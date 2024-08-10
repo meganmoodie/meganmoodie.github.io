@@ -1,6 +1,5 @@
 ---
 title: "Megan Moodie"
-description: "Site Access Features"
 layout: default
 ---
 
