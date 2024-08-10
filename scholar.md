@@ -35,12 +35,11 @@ Megan Moodie, Siobhan Mattison, Logan Gin, Allistair A. Abraham, Feranmi Okanlam
 
 # Other Publications
 
-## 2023 Dear Reluctant Reviewer 2 In “Yours Sincerely, an Uncertain Anthropologist":
+## 2023. “Your Sincerely, Reluctant Reviewer 2":
 
-Edited by Paige Edmiston and Alexandra Dantzer, <https://americanethnologist.org/online-content/collections/yours-sincerely-an-uncertain-
-anthropologist/your-sincerely-r…ctant-reviewer-2/>, September 27 2023
+For &quot;Yours Sincerely, an Uncertain Anthropologist&quot;, edited by Paige Edmiston and Alexandra Dantzer. <https://americanethnologist.org/online-content/collections/yours-sincerely-an-uncertain-anthropologist/your-sincerely-reluctant-reviewer-2/>, September 27 2023
 
-## 2022 “Disruption at the Center: Disability Anthropology and Black Feminist Research Creation”:
+## 2022. “Disruption at the Center: Disability Anthropology and Black Feminist Research Creation”:
 
-For Cultural Anthropology on-line editorially reviewed forum &quot;Theorizing the Contemporary: Fieldsights,&quot; Michele Friedner and Matthew Wolf-Meyer, guest eds, <https://culanth.org/fieldsights/disruption-at-the-center-disability-anthropology-and-black-
+For Cultural Anthropology on-line editorially reviewed forum &quot;Theorizing the Contemporary: Fieldsights,&quot; by Michele Friedner Matthew Wolf-Meyer, and guest educators. <https://culanth.org/fieldsights/disruption-at-the-center-disability-anthropology-and-black-
 feminist-research-creation/>, September 6 2022.
