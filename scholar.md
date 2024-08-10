@@ -41,5 +41,4 @@ For &quot;Yours Sincerely, an Uncertain Anthropologist&quot;, edited by Paige Ed
 
 ## 2022. “Disruption at the Center: Disability Anthropology and Black Feminist Research Creation”:
 
-For Cultural Anthropology on-line editorially reviewed forum &quot;Theorizing the Contemporary: Fieldsights,&quot; by Michele Friedner Matthew Wolf-Meyer, and guest educators. <https://culanth.org/fieldsights/disruption-at-the-center-disability-anthropology-and-black-
-feminist-research-creation/>, September 6 2022.
+For Cultural Anthropology on-line editorially reviewed forum &quot;Theorizing the Contemporary: Fieldsights,&quot; by Michele Friedner Matthew Wolf-Meyer, and guest educators. <https://culanth.org/fieldsights/disruption-at-the-center-disability-anthropology-and-black-feminist-research-creation/>, September 6 2022.
