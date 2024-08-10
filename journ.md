@@ -8,8 +8,7 @@ layout: default
 ## Hip Mama Magazine (2021):
 
 "Dear Selma Blair, Please Play Me In The Movie"  
-<http://hipmamazine.com/megan-moodie-dear-selma-blair-please-play-me-in-the-movie/>  
-(BROKEN LINK)
+<https://meganmoodie.github.io/articles/selmablair.pdf>
 
 ## Los Angeles Review of Books (2020):
 
@@ -19,7 +18,7 @@ layout: default
 ## Chicago Quarterly Review (2018):
 
 "Birthright"  
-INSERT LINK  
+<https://meganmoodie.github.io/articles/birthright.pdf>  
 Named "Notable Essay of the Year" in Best American Essays (2019, edited by Robert Atwan and Rebecca Solnit)
 
 ## Film Quarterly (2018):
