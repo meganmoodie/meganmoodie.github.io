@@ -5,11 +5,9 @@ layout: default
 
 # Megan Moodie Creative Non-Fiction Links
 
------
-
 ## Hip Mama Magazine (2021):
 
-"Dead Selma Blair, Please Play Me In The Movie"  
+"Dear Selma Blair, Please Play Me In The Movie"  
 <http://hipmamazine.com/megan-moodie-dear-selma-blair-please-play-me-in-the-movie/>  
 (BROKEN LINK)
 
