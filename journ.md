@@ -7,19 +7,19 @@ layout: default
 
 ## Hip Mama Magazine (2021):
 
-"Dead Selma Blair, Please Play Me In The Movie"
+"Dead Selma Blair, Please Play Me In The Movie"  
 <http://hipmamazine.com/megan-moodie-dear-selma-blair-please-play-me-in-the-movie/>  
 (BROKEN LINK)
 
 ## Los Angeles Review of Books (2020):
 
-"When The Chronically Ill Go into Remission
+"When The Chronically Ill Go into Remission"  
 <https://lareviewofbooks.org/article/when-the-chronically-ill-re-mission-filmmaker-jennifer-breas-life-after-unrest/>
 
 ## Chicago Quarterly Review (2018):
 
 "Birthright"  
-INSERT LINK
+INSERT LINK  
 Named "Notable Essay of the Year" in Best American Essays (2019, edited by Robert Atwan and Rebecca Solnit)
 
 ## Film Quarterly (2018):
