@@ -5,6 +5,8 @@ layout: default
 
 ![headshot](images/headshot.jpg)
 
+[Image Description: A middle-aged white woman smiles a close-mouthed smile in the foreground. She has wavy brown hair with obvious roots and dark eyes; she is wearing a black turtleneck. Behind her, slightly out of focus, the medium green leaves and grey bark of a California oak tree is visible.]
+
 ### *I want to talk about something else, which is the emotional life of illness. This seems like an equally difficult but more neglected task [than criticizing medicine's misogyny]. Rather than being unique... my story is so brutally common that sometimes I feel like telling it all over again is like explaining to sick women that the sky is blue. We know medicine is fucked up beyond all belief. How can we live anyway?*
 
 #### (from *Sick Woman Mansion*, current work-in-progress)
@@ -24,6 +26,8 @@ She is also the subject of an on-going documentary film project about her life i
 Moodie lives in Santa Cruz with her partner, a linguist, her son, a film buff, and their two salt-and-pepper pugs.
 
 ![pugs](images/pugs.jpg)
+
+[Image Description: The same middle-aged white woman is smiling with her teeth showing, sitting on a cream-colored couch. Her brown hair has more blonde highlights and she is wearing dark tortoiseshell glasses. Her pants and top are black. The woman leans to the right and on her lap in a stack are a heating pad, a fawn-colored pug and a midnight pug. On her left wrist the woman’s beige FitBit and medical ID bracelet are visible.] 
 
 -----
 
