@@ -5,11 +5,6 @@ layout: default
 
 # Megan Moodie Creative Non-Fiction Links
 
-## Hip Mama Magazine (2021):
-
-"Dear Selma Blair, Please Play Me In The Movie"  
-<https://meganmoodie.github.io/articles/selmablair.pdf>
-
 ## Los Angeles Review of Books (2020):
 
 "When The Chronically Ill Go into Remission"  
