@@ -13,24 +13,24 @@ layout: default
 
 ## 2025. How to be disabled in a pandemic:
 
-Megan Moodie, Mara Mills, Harris Kornstein, Faye Gibsurg, and Rayna Rapp.
-*Duke University Press*. 392 pp.
+Megan Moodie, Mara Mills, Harris Kornstein, Faye Gibsurg, and Rayna Rapp.  
+*Duke University Press*. 392 pp.  
 <https://meganmoodie.github.io/articles/medanth.pdf>
 
 ## 2025. The Coproduction of Medical Knowledge:
 
-*Annual Review of Anthropology*. 54(1). 289-306.
+*Annual Review of Anthropology*. 54(1). 289-306.  
 <https://meganmoodie.github.io/articles/annualreview.pdf>
 
 ## 2025. Patients as knowledge partners in the context of complex chronic conditions: 
 
-Hsu, V. J., Moodie, M., Dumes, A. A., Rogers, E. L., Carter, C., Broder, E., ... & Mendenhall, E.
-*Medical Humanities*. 51(1). 34-38.
+Hsu, V. J., Moodie, M., Dumes, A. A., Rogers, E. L., Carter, C., Broder, E., ... & Mendenhall, E.  
+*Medical Humanities*. 51(1). 34-38.  
 <https://meganmoodie.github.io/articles/medhumanities.pdf>
 
 ## 2024. Cure by the Spoonful: Why Your Friend with a Chronic Illness Just Can’t Swallow Your Advice. Gastronomica: The Journal of Food and Culture:
 
-*Gastronomica: The Journal of Food and Culture*. 24(3). 19-25.
+*Gastronomica: The Journal of Food and Culture*. 24(3). 19-25.  
 <https://meganmoodie.github.io/articles/gastronomica.pdf>
 
 ## 2024. Patients as knowledge partners in the context of complex chronic conditions:
